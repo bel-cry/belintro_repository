@@ -1,10 +1,10 @@
 # manual of operating GIT
 license: [MIT](./license.md)
-![git-logo](./assets/git-logo.png)
+![git-logo](./assets/1920px-Git-logo.png)
 
 ---
 
-###Contents:
+### Contents:
 1. something
 2. [git add](./add.md)
 ---
